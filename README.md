@@ -12,6 +12,11 @@
 - <b>Virtual Private Network</b>
   - [VPN Setup in Azure (Proton VPN)](https://github.com/alexramos657/vpn-setting)
 
+<h2>⚒️ Hardware Projects:</h2>
+
+- <b>Soldering</b>
+  - [Basic Soldering](https://github.com/alexramos657/basicsoldering)
+
 <h2>🤳Connect with me:</h2>
 
 
