@@ -15,7 +15,7 @@
 <h2>⚒️ Hardware Projects:</h2>
 
 - <b>Soldering</b>
-  - [Basic Soldering](https://github.com/alexramos657/basicsoldering)
+  - [Soldering Electrical Components (Ohm's Law Circuit Board)](https://github.com/alexramos657/basicsoldering)
 
 <h2>🤳Connect with me:</h2>
 
