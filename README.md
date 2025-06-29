@@ -16,6 +16,7 @@
 
 - <b>Soldering</b>
   - [Soldering Electrical Components (Ohm's Law Circuit Board)](https://github.com/alexramos657/basicsoldering)
+  - [Arduino Nano Pin Soldering + Test Circuit](https://github.com/alexramos657/arduinonanosoldering)
 
 <h2>🤳Connect with me:</h2>
 
