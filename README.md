@@ -17,6 +17,8 @@
 - <b>Soldering</b>
   - [Soldering Electrical Components (Ohm's Law Circuit Board)](https://github.com/alexramos657/basicsoldering)
   - [Arduino Nano Pin Soldering + Test Circuit](https://github.com/alexramos657/arduinonanosoldering)
+- <b>PCB Design</b>
+  - [74HC595 LED Shift Register Board](https://github.com/alexramos657/74HC595-LED-Board)
 
 <h2>🤳Connect with me:</h2>
 
